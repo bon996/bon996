@@ -16,8 +16,8 @@
 ## 💻 About Me
 - 🎓 Currently studying **Software Engineering**.
 - 🤖 Eager to learn **Machine Learning & AI**.
-- 💡 Passionate about building **efficient & scalable software**.
-- 🌱 Continuously improving **Python, Java, C++, Django, HTML, CSS, JS** skills.
+- 💡 Passionate about building **efficient & scalable model**.
+- 🌱 Continuously improving **Python, Java, C++, Django, Pandas, Numpy, skills.
 - 📫 Reach me at: [bonadaniel9@gmail.com](mailto:bonadaniel9@gmail.com)
 
 ---
