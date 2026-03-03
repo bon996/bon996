@@ -39,12 +39,12 @@ I'm a Software Engineering student passionate about **Machine Learning** and usi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BonaDaniel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonaDaniel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bon996&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bon996&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="38%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BonaDaniel&theme=github-dark&hide_border=true&background=0d1117" width="86%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bon996&theme=github-dark&hide_border=true&background=0d1117" width="86%" />
 </div>
 
 ---
