@@ -21,7 +21,7 @@ I'm a Software Engineering student passionate about **Machine Learning** and usi
 
 ---
 
-## 🧠 Mindset
+## 🧠 Mindset Defines Everything
 
 
 
