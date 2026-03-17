@@ -23,9 +23,7 @@ I'm a Software Engineering student passionate about **Machine Learning** and usi
 
 ## 🧠 Mindset
 
-I don’t just learn tech to follow the system — I learn it to **build intelligent systems that solve real problems**.
 
-Focused on long-term growth, not shortcuts.
 
 ---
 
