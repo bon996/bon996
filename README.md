@@ -21,6 +21,14 @@ I'm a Software Engineering student passionate about **Machine Learning** and usi
 
 ---
 
+## 🧠 Mindset
+
+I don’t just learn tech to follow the system — I learn it to **build intelligent systems that solve real problems**.
+
+Focused on long-term growth, not shortcuts.
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -32,19 +40,6 @@ I'm a Software Engineering student passionate about **Machine Learning** and usi
 | **Frameworks** | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bon996&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bon996&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="38%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bon996&theme=github-dark&hide_border=true&background=0d1117" width="86%" />
 </div>
 
 ---
